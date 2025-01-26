@@ -1,4 +1,4 @@
-@extends('layouts.head');
+@extends('layouts.head')
 @section('content')
     <div class="container">
         <h3 class="text-center">{{ $mensaje }} </h3>
